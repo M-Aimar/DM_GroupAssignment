@@ -2,6 +2,7 @@
 # The program in DMex4.py is very chunky and working it here makes it easier and more readable
 
 # Importing the contents of DMex4.py to be used in this file
+# Both files(DMex4.py and DMex4_test.py) need to be downloaded and stored in the same folder for the import to work
 import DMex4
 
 # Initializing two finite sets A and A1 as well as two relations R and R1
